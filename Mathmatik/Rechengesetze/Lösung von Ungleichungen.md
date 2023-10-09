@@ -1,0 +1,4 @@
+- Lösungsmenge $\mathcal{L}$ von Ungleichungen wird gesucht 
+- Es muss eine Fallunterscheidung gemacht werden, Wenn der Betrag negiert wird / wenn nicht
+- Wenn mehrere Beträge enthalten sind, müssen mehr Fälle betrachtet werden
+- $\mathcal{L}$ ist die Union von allen Teilmengen die durch die Fallunterscheidung Entstehen

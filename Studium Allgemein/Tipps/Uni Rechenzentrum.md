@@ -1,0 +1,10 @@
+- Grace Hopper Bau
+- Service point of contact
+- MS 365
+- 1111@tu-ilmenau.de
+- Raumbuchung - Gruppenarbeit
+- os.tu-ilmenau.de
+- exam.tu-ilmenau.de
+- timetable.tu-ilmenau.de
+- tu-ilmenau.webex.com
+- intranet.tu-ilmenau.de/site/unirz

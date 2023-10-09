@@ -1,0 +1,13 @@
+
+- Zahlensystem mit der Basis 2 statt 10 ([[Dezimalsystem]])
+- Ziffern: 0 und 1
+- Jede beliebige Zahl darstellbar
+- wird z.B. bei Computern in der [[Informatik]] benutzt
+- Weil: Ströme können entweder an (HIGH) oder aus (LOW) sein
+- Umwandlung zwischen Zahlensystemen
+	- [[Binärsystem in Dezimalsystem]]
+	- [[Dezimalsystem in Binärsystem]]
+	- 
+- Addition Subtraktion
+	- [[Addition im Binärsystem]]
+	- [[Subtraktion im Binärsystem]]

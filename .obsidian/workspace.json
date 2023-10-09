@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "64e15285fd60065a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e385d7a39ef069c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046989c678f9c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee564511d0dc939b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3707378bc8b88417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c29fb236cde6d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a0c519284861cc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6fb8c408eab298a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "248e306db9df573c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81b97c652a08d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711130e620154865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09d33c754e03252b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "538486d7b5997450",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a0f9d88648efaf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6070193742d013f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "046989c678f9c4e0",
+  "lastOpenFiles": [
+    "Mathmatik/Folgen/Folgen.md",
+    "Mathmatik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
+    "Mathmatik/Folgen",
+    "Mathmatik/Untitled.md",
+    "Mathmatik/Funktionen/Funktionstypen/Polynomabbildungen.md",
+    "Mathmatik/Funktionen/Mathematische Funktionen.md",
+    "Mathmatik/Funktionen/Operationen an Fuktionen/Funktionsaddition bzw. Subtraktion.md",
+    "Mathmatik/Funktionen/Funktion bzw. Abbildung.md",
+    "Mathmatik/Funktionen/Operationen an Fuktionen/Arithmetische Operationen für Funktionen.md",
+    "Mathmatik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
+    "Mathmatik/Funktionen/Funktionstypen/Nullfunktion.md",
+    "Mathmatik/Funktionen/Funktionstypen/Ceil Funktion.md",
+    "Mathmatik/Funktionen/Funktionstypen/Identische Abbildung.md",
+    "Mathmatik/Funktionen/Funktionstypen/Floor Funktion.md",
+    "Mathmatik/Funktionen/Funktionstypen/Betragsfunktion.md",
+    "Mathmatik/Funktionen/Operationen an Fuktionen",
+    "Mathmatik/Funktionen/Untitled.md",
+    "Mathmatik/Funktionen/Funktionstypen",
+    "Mathmatik/Funktionen",
+    "Mathmatik/Zahlenbereiche.md",
+    "Mathmatik/Mathematik.md",
+    "Mathmatik/Geometrie/Formen/Ellipse/Math. Def. Ellipse.md",
+    "Mathmatik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
+    "Mathmatik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
+    "Mathmatik/Rechengesetze/Ableitung.md",
+    "Mathmatik/Rechengesetze/Differentialrechnung",
+    "Mathmatik/Rechengesetze/Sinus Umformungen.md",
+    "Mathmatik/Rechengesetze/Logarithmus.md",
+    "Mathmatik/Rechengesetze/Gleichungen mit e.md",
+    "Mathmatik/Rechengesetze/Intervalle.md",
+    "Mathmatik/Rechengesetze/Lösung von Ungleichungen.md",
+    "Mathmatik/Geometrie/Formen/Kreis/Math. Def. Kreis.md",
+    "Mathmatik/Geometrie/Formen/Hyperbel/hyperbel_allgemein.png",
+    "Mathmatik/Geometrie/Formen/Hyperbel",
+    "Mathmatik/Geometrie/Formen/Ellipse",
+    "Mathmatik/Geometrie/Formen/Kreis",
+    "Mathmatik/Geometrie/Formen",
+    "Mathmatik/Geometrie",
+    "Mathmatik/Rechengesetze/Binomische Formeln/binomische-formeln-1024x406.png",
+    "Pascalsches-Dreieck_Binomialkoeffizient-1024x440.png"
+  ]
+}
