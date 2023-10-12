@@ -10,4 +10,3 @@ $f, g, e: D \subseteq \mathbb{R} \rightarrow \mathbb{R}$
 - $f + (g + e) = (f + g) + e$
 - $f + O$ = f
 - $f - f$ = $O$
-

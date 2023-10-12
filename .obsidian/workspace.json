@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2e385d7a39ef069c",
+        "id": "03da4524703b9f33",
         "type": "tabs",
         "children": [
           {
-            "id": "046989c678f9c4e0",
+            "id": "7a2448d1e8513524",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md"
+              }
             }
           },
           {
@@ -147,40 +155,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93c29fb236cde6d4",
+  "active": "7a2448d1e8513524",
   "lastOpenFiles": [
-    "Mathematik/Folgen/Folgen.md",
-    "Mathematik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
-    "Mathematik/Folgen",
-    "Mathmatik/Untitled.md",
-    "Mathematik/Funktionen/Funktionstypen/Polynomabbildungen.md",
-    "Mathematik/Funktionen/Mathematische Funktionen.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsaddition bzw. Subtraktion.md",
-    "Mathematik/Funktionen/Funktion bzw. Abbildung.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Arithmetische Operationen für Funktionen.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
+    "Untitled.canvas",
+    "Mathematik/Folgen/Untitled.md",
+    "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
     "Mathematik/Funktionen/Funktionstypen/Nullfunktion.md",
-    "Mathematik/Funktionen/Funktionstypen/Ceil Funktion.md",
-    "Mathematik/Funktionen/Funktionstypen/Identische Abbildung.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
+    "Mathematik/Beweise/Vollständige Induktion.md",
+    "Mathematik/Folgen/Folgen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogische Variable.md",
+    "Mathematik/Diskrete Mathematik/Aussagen.md",
     "Mathematik/Funktionen/Funktionstypen/Floor Funktion.md",
-    "Mathematik/Funktionen/Funktionstypen/Betragsfunktion.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen",
-    "Mathmatik/Funktionen/Untitled.md",
-    "Mathematik/Funktionen/Funktionstypen",
-    "Mathematik/Funktionen",
-    "Mathematik/Zahlenbereiche.md",
-    "Mathematik/Mathematik.md",
+    "Mathematik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
+    "Mathematik/Funktionen/Funktionstypen/Ceil Funktion.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Arithmetische Operationen für Funktionen.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsaddition bzw. Subtraktion.md",
+    "Informatik/Algorithmen und Datenstrukturen/EVA Prinzip.md",
     "Mathematik/Geometrie/Formen/Ellipse/Math. Def. Ellipse.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
-    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
-    "Mathematik/Rechengesetze/Ableitung.md",
+    "Mathematik/Funktionen/Funktionstypen/Polynomabbildungen.md",
+    "Mathematik/Funktionen/Funktionstypen/Identische Abbildung.md",
+    "Mathematik/Funktionen/Funktionstypen/Betragsfunktion.md",
+    "Mathematik/Folgen",
+    "Mathmatik/Untitled.md",
+    "Mathematik/Funktionen/Mathematische Funktionen.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen",
+    "Mathematik/Funktionen/Funktionstypen",
+    "Mathematik/Funktionen",
     "Mathematik/Rechengesetze/Differentialrechnung",
-    "Mathematik/Rechengesetze/Sinus Umformungen.md",
-    "Mathematik/Rechengesetze/Logarithmus.md",
-    "Mathematik/Rechengesetze/Gleichungen mit e.md",
-    "Mathematik/Rechengesetze/Intervalle.md",
-    "Mathematik/Rechengesetze/Lösung von Ungleichungen.md",
-    "Mathematik/Geometrie/Formen/Kreis/Math. Def. Kreis.md",
     "Mathematik/Geometrie/Formen/Hyperbel/hyperbel_allgemein.png",
     "Mathematik/Geometrie/Formen/Hyperbel",
     "Mathematik/Geometrie/Formen/Ellipse",
