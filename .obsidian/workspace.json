@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md"
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md"
               }
             }
           },
@@ -157,6 +157,25 @@
   },
   "active": "7a2448d1e8513524",
   "lastOpenFiles": [
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
+    "Mathematik/Folgen/Grenzwerte von Folgen.md",
+    "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
+    "Mathematik/Zahlensysteme/Oktalsystem/OKtalsystem.md",
+    "Mathematik/Zahlensysteme/Oktalsystem",
+    "Mathematik/Zahlensysteme/Octalsystem/OKtalsystem.md",
+    "Mathematik/Zahlensysteme/Octalsystem/Octalsystem.md",
+    "Mathematik/Zahlensysteme/Octalsystem/Ocalsystem.md",
+    "Mathematik/Zahlensysteme/Octalsystem/Untitled.md",
+    "Mathematik/Zahlensysteme/Hexadezimalsystem/Hexadezimalsystem.md",
+    "Mathematik/Zahlensysteme/Hexadezimalsystem/Untitled.md",
+    "Informatik/Signale/Digitale Signale.md",
+    "Informatik/Signale/Untitled.md",
+    "Informatik/Signale",
+    "Informatik/Untitled",
+    "Mathematik/Zahlensysteme/Hexadezimalsystem",
+    "Mathematik/Zahlensysteme/Untitled",
+    "Mathematik/Zahlensysteme/Octalsystem",
+    "Informatik/Rechnerorganisation",
     "Untitled.canvas",
     "Mathematik/Folgen/Untitled.md",
     "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
@@ -166,35 +185,17 @@
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Beweise/Vollständige Induktion.md",
     "Mathematik/Folgen/Folgen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogische Variable.md",
     "Mathematik/Diskrete Mathematik/Aussagen.md",
     "Mathematik/Funktionen/Funktionstypen/Floor Funktion.md",
     "Mathematik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
-    "Mathematik/Funktionen/Funktionstypen/Ceil Funktion.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Arithmetische Operationen für Funktionen.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsaddition bzw. Subtraktion.md",
-    "Informatik/Algorithmen und Datenstrukturen/EVA Prinzip.md",
-    "Mathematik/Geometrie/Formen/Ellipse/Math. Def. Ellipse.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
-    "Mathematik/Funktionen/Funktionstypen/Polynomabbildungen.md",
-    "Mathematik/Funktionen/Funktionstypen/Identische Abbildung.md",
-    "Mathematik/Funktionen/Funktionstypen/Betragsfunktion.md",
     "Mathematik/Folgen",
-    "Mathmatik/Untitled.md",
-    "Mathematik/Funktionen/Mathematische Funktionen.md",
     "Mathematik/Funktionen/Operationen an Fuktionen",
     "Mathematik/Funktionen/Funktionstypen",
-    "Mathematik/Funktionen",
-    "Mathematik/Rechengesetze/Differentialrechnung",
     "Mathematik/Geometrie/Formen/Hyperbel/hyperbel_allgemein.png",
-    "Mathematik/Geometrie/Formen/Hyperbel",
-    "Mathematik/Geometrie/Formen/Ellipse",
-    "Mathematik/Geometrie/Formen/Kreis",
-    "Mathematik/Geometrie/Formen",
-    "Mathematik/Geometrie",
     "Mathematik/Rechengesetze/Binomische Formeln/binomische-formeln-1024x406.png",
     "Pascalsches-Dreieck_Binomialkoeffizient-1024x440.png"
   ]

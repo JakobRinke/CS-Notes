@@ -11,7 +11,7 @@
 001101
 
 001101 -> muss in eine Negative Zahl umgewandelt werden
-110010 -> Alles umgekehrt
+110010 -> Alles umgekehrt **Auf die Anfangsnullen achten!**
 110011 -> 1 draufaddiert
 
 1110011 ist -1101

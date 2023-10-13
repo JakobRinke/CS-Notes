@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7e43255024fa55",
+        "id": "66136b1fc6505fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "95ec56a8e8634b8a",
+            "id": "8125e16591ff6e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Folgen/Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "165ea4f4d727cd8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grenzwerte von Folgen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grenzwerte von Folgen.md",
+            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grenzwerte von Folgen.md",
+            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Grenzwerte von Folgen.md"
+            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md"
           }
         }
       }
@@ -145,8 +132,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "165ea4f4d727cd8b",
+  "active": "8125e16591ff6e65",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Dezimalsystem in Binärsystem.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem.md",
+    "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
+    "Mathematik/Zahlensysteme/Hexadezimalsystem/Hexadezimalsystem.md",
+    "Informatik/Signale/Digitale Signale.md",
+    "Informatik/Algorithmen und Datenstrukturen/Algorithmen.md",
+    "Informatik/Signale",
+    "Mathematik/Folgen/Grenzwerte von Folgen.md",
+    "Mathematik/Zahlensysteme/Hexadezimalsystem",
+    "Mathematik/Zahlensysteme/Oktalsystem",
+    "Informatik/Rechnerorganisation",
     "Mathematik/Folgen/Folgen.md",
     "Grenzwerte von Folgen.md",
     "Mathematik/Beweise/Vollständige Induktion.md",
@@ -167,12 +168,7 @@
     "Unibibliothek.md",
     "Studium Allgemein/Tipps/Studium - wie kann es gelingen.md",
     "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
-    "Mathmatik/Zahlensysteme/Subtraktion im Binärsystem.md",
     "Studium Allgemein/Tipps",
-    "Studium Allgemein",
-    "Mathmatik/Zahlensysteme/Dezimalsystem in Binärsystem.md",
-    "Mathmatik/Zahlensysteme/Binärsystem in Dezimalsystem.md",
-    "Computer Science/Informatik.md",
-    "Mathmatik/Zahlensysteme/Binärsystem.md"
+    "Studium Allgemein"
   ]
 }
