@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+                "file": "Mathematik/Folgen/Grenzwertregeln.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+            "file": "Mathematik/Folgen/Grenzwertregeln.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+            "file": "Mathematik/Folgen/Grenzwertregeln.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md"
+            "file": "Mathematik/Folgen/Grenzwertregeln.md"
           }
         }
       }
@@ -132,8 +132,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8125e16591ff6e65",
+  "active": "d5a356b2024156fc",
   "lastOpenFiles": [
+    "Mathematik/Folgen/Folgen.md",
+    "Mathematik/Folgen/Grenzwerte von Folgen.md",
+    "Mathematik/Folgen/Grenzwertregeln.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
+    "Mathematik/Diskrete Mathematik/Grundlagen Bücher.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
     "Untitled.canvas",
     "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Dezimalsystem in Binärsystem.md",
@@ -144,30 +152,23 @@
     "Informatik/Signale/Digitale Signale.md",
     "Informatik/Algorithmen und Datenstrukturen/Algorithmen.md",
     "Informatik/Signale",
-    "Mathematik/Folgen/Grenzwerte von Folgen.md",
     "Mathematik/Zahlensysteme/Hexadezimalsystem",
     "Mathematik/Zahlensysteme/Oktalsystem",
     "Informatik/Rechnerorganisation",
-    "Mathematik/Folgen/Folgen.md",
     "Grenzwerte von Folgen.md",
     "Mathematik/Beweise/Vollständige Induktion.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Grundlagen Bücher.md",
     "Mathematik/Beweise",
     "Untitled",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
     "Mathematik/Rechengesetze/Ableitung.md",
     "Mathematik/Mathematik.md",
     "Mathematik/Diskrete Mathematik",
     "Mathmatik/Funktionen.md",
     "Mathmatik/Contact.md",
     "Unibibliothek.md",
-    "Studium Allgemein/Tipps/Studium - wie kann es gelingen.md",
-    "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
     "Studium Allgemein/Tipps",
     "Studium Allgemein"
   ]

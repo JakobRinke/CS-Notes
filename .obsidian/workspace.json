@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md"
+                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "7a2448d1e8513524",
   "lastOpenFiles": [
+    "Mathematik/Folgen/Grenzwertregeln.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Folgen/Grenzwerte von Folgen.md",
     "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
@@ -181,16 +186,11 @@
     "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
     "Mathematik/Funktionen/Funktionstypen/Nullfunktion.md",
     "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
     "Mathematik/Beweise/Vollständige Induktion.md",
     "Mathematik/Folgen/Folgen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogische Variable.md",
     "Mathematik/Diskrete Mathematik/Aussagen.md",
-    "Mathematik/Funktionen/Funktionstypen/Floor Funktion.md",
-    "Mathematik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
     "Mathematik/Folgen",
     "Mathematik/Funktionen/Operationen an Fuktionen",
