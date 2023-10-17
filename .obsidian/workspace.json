@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
+                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,25 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
+                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "09d33c754e03252b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -120,12 +108,24 @@
             }
           },
           {
+            "id": "09d33c754e03252b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "0a0f9d88648efaf4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md"
+                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,12 +157,16 @@
   },
   "active": "7a2448d1e8513524",
   "lastOpenFiles": [
+    "Mathematik/Zahlensysteme/Binärsystem/Addition im Binärsystem.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
     "Mathematik/Folgen/Grenzwertregeln.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Folgen/Grenzwerte von Folgen.md",
     "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
     "Mathematik/Zahlensysteme/Oktalsystem/OKtalsystem.md",
@@ -187,10 +191,6 @@
     "Mathematik/Funktionen/Funktionstypen/Nullfunktion.md",
     "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
-    "Mathematik/Beweise/Vollständige Induktion.md",
-    "Mathematik/Folgen/Folgen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogische Variable.md",
-    "Mathematik/Diskrete Mathematik/Aussagen.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
     "Mathematik/Folgen",
     "Mathematik/Funktionen/Operationen an Fuktionen",
