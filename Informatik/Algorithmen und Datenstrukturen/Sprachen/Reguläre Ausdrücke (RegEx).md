@@ -1,0 +1,4 @@
+- „Wort“: a, b
+- Sequenz:  pq
+- Auswahl (a xoder b): p+q
+- Iteration (beliebig oft): p*

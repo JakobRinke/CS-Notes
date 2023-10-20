@@ -9,9 +9,10 @@ Sei $a_n, b_n, c_n$ Folgen über $\mathbb{R}$ $a,b,c \in \mathbb{R} U {\infty, -
 	3. sowie: $\forall n\ge n_0: b_n \le a_n \le c_n, lim(b_n) = lim(c_n) = g$ => $lim(a_n) \le g$
 4. Fehlerfolge
 	- $a_n -> g$ <=> $f_n = |a_n - g| -> 0$
-5. Nullfolge / Kehrwert
+	- A geht gegen g, wenn der Fehler von a bis g gegen null geht
+1. Nullfolge / Kehrwert
 	- $a_n$ -> 0, $a_n$ > 0=> $1/a_n -> \infty$ 
-	- $a_n$ -> 0, $a_n$ > 0=> $1/a_n -> -\infty$ 
+	- $a_n$ -> 0, $a_n$ < 0=> $1/a_n -> -\infty$ 
 
 
 #### 6. Rechnen mit Grenzwerten
@@ -37,4 +38,7 @@ Sei $a_n, b_n, c_n$ Folgen über $\mathbb{R}$ $a,b,c \in \mathbb{R} U {\infty, -
 7. Grenzwerte von Wurzeln
 	- Sei $a_n$ eine Folge $a_n \ge 0 \forall n \ge 1$
 	- Ist $lim \frac{(a_n+1)}{a_n}= q$   dann ist    $lim \sqrt[n]{a_n}$ = q
-	- 
+
+8. e folge
+	- $x_n$ Folge geht gegen Unendlich
+	- $(1+(1/x_n))^{x_n} \rightarrow e$ 

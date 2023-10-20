@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md"
+                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md"
               }
             }
           },
@@ -157,13 +157,15 @@
   },
   "active": "7a2448d1e8513524",
   "lastOpenFiles": [
+    "Mathematik/Folgen/Folgen.md",
+    "Mathematik/Folgen/Grenzwertregeln.md",
+    "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Addition im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Binärsystem.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
-    "Mathematik/Folgen/Grenzwertregeln.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
@@ -189,8 +191,6 @@
     "Mathematik/Folgen/Untitled.md",
     "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
     "Mathematik/Funktionen/Funktionstypen/Nullfunktion.md",
-    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
     "Mathematik/Folgen",
     "Mathematik/Funktionen/Operationen an Fuktionen",
