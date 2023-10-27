@@ -1,4 +1,5 @@
 
+
 #### Cantor
 - Eine Menge ist eine Zusammenfassung bestimmter wohlunterschiedener Objekte unserer Anschauung oder unseres Denkens
 - Von jedem Objekt steht fest ob es zu Menge gehört oder nicht
@@ -35,3 +36,15 @@
  **Wie kommt man überhaupt zu Mengen, wie zu „größeren“**
 - Es gibt eine Menge
 - Folgerung: Es gibt eine Menge, die keine andere Menge als Element enthält, leere Menge; $\emptyset$ 
+
+##### Wunsch 4
+Zu jeder Menge $A$ gibt es eine Menge die aus genau denjenigen Mengen besteht, die Teilmenge von $A$ sind
+Potenzmenge von a: $\mathfrak{P}(A) \equiv \mathfrak{p}(A) \equiv 2^A$ enthält alle Teilmengen
+$\mathfrak{P}(\emptyset) = \{\emptyset\}$
+$\mathfrak{P}(\{\emptyset\}) = \{ \emptyset, \{\emptyset\} \}$
+
+##### Wunsch 5
+Zu jeder Menge nichtleeren Menge A von Mengen gibt es eine Menge, die aus genau denjenigen Mengen besteht, die zu jeder Menge aus A Angehören. 
+
+Wunsch 5
+Zu jeder Menge nichtleeren Menge A von Mengen gibt es eine Menge, die aus genau denjenigen Mengen besteht, die zu wenigstens einer Menge aus AAngehören. 

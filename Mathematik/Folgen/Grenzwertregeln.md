@@ -37,7 +37,7 @@ Sei $a_n, b_n, c_n$ Folgen über $\mathbb{R}$ $a,b,c \in \mathbb{R} U {\infty, -
 
 7. Grenzwerte von Wurzeln
 	- Sei $a_n$ eine Folge $a_n \ge 0 \forall n \ge 1$
-	- Ist $lim \frac{(a_n+1)}{a_n}= q$   dann ist    $lim \sqrt[n]{a_n}$ = q
+	- Ist $lim \frac{(a_{n+1})}{a_n}= q$   dann ist    $lim \sqrt[n]{a_n}$ = q
 
 8. e folge
 	- $x_n$ Folge geht gegen Unendlich

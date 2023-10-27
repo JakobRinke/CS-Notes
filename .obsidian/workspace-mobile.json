@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Mengenlehre/Mengen.md",
+                "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Mengenlehre/Mengen.md",
+            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Mengenlehre/Mengen.md",
+            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Mengenlehre/Mengen.md"
+            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md"
           }
         }
       }
@@ -134,12 +134,19 @@
   },
   "active": "8125e16591ff6e65",
   "lastOpenFiles": [
+    "Mathematik/Mengenlehre/Relationen.md",
+    "Mathematik/Folgen/Reihen.md",
+    "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+    "Mathematik/Mengenlehre/Mengenaxiome.md",
+    "Mathematik/Mengenlehre/Mengen.md",
+    "Mathematik/Mengenlehre/Rechenregeln für Mengen.md",
+    "Informatik/Algorithmen und Datenstrukturen/Landau Notation/Landaunotation.md",
     "Mathematik/Folgen/Grenzwertregeln.md",
+    "Informatik/Algorithmen und Datenstrukturen/Landau Notation",
     "Mathematik/Folgen/Grenzwerte von Folgen.md",
     "Mathematik/Folgen/Monotonie und Beschränktheit.md",
     "Informatik/Algorithmen und Datenstrukturen/Sprachen/Backus Naur Form.md",
     "Informatik/Algorithmen und Datenstrukturen/Sprachen/Reguläre Ausdrücke (RegEx).md",
-    "Mathematik/Mengenlehre/Mengen.md",
     "Informatik/Algorithmen und Datenstrukturen/Sprachen",
     "Mathematik/Mengenlehre",
     "Mathematik/Folgen/Folgen.md",
@@ -161,15 +168,8 @@
     "Mathematik/Zahlensysteme/Hexadezimalsystem",
     "Mathematik/Zahlensysteme/Oktalsystem",
     "Informatik/Rechnerorganisation",
-    "Grenzwerte von Folgen.md",
-    "Mathematik/Beweise/Vollständige Induktion.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
     "Mathematik/Beweise",
-    "Untitled",
-    "Mathematik/Rechengesetze/Ableitung.md",
-    "Mathematik/Diskrete Mathematik"
+    "Untitled"
   ]
 }
