@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "248e306db9df573c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md",
+                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Folgen/Grenzwerte von Folgen.md"
+                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert.md"
               }
             }
           },
@@ -157,30 +157,35 @@
   },
   "active": "7a2448d1e8513524",
   "lastOpenFiles": [
-    "Mathematik/Folgen/Folgen.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Stetigkeit.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert.md",
+    "Mathematik/Folgen/Rechnen mit Konvergenten Reihen.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften",
+    "Mathematik/Folgen/Zusammenfassung Konvergenzregeln.md",
+    "Mathematik/Folgen/Alternierende Reihen.md",
+    "Mathematik/Folgen/Cauchykriterium.md",
+    "Mathematik/Folgen/Reihen.md",
     "Mathematik/Folgen/Grenzwertregeln.md",
+    "Mathematik/Folgen/Pasted image 20231030171131.png",
+    "Mathematik/Funktionen/Funktionstypen/Exponentialfunktionen.md",
+    "Mathematik/Funktionen/Funktionstypen/Ceil Funktion.md",
+    "Mathematik/Funktionen/Funktionstypen/Betragsfunktion.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
+    "Mathematik/Mathematik.md",
+    "Mathematik/Funktionen/Funktion bzw. Abbildung.md",
+    "Mathematik/Folgen/Grenzwerte von Folgen.md",
+    "Mathematik/Folgen/Folgen.md",
     "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Addition im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Binärsystem.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Abspaltregel.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
-    "Mathematik/Folgen/Grenzwerte von Folgen.md",
-    "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
-    "Mathematik/Zahlensysteme/Oktalsystem/OKtalsystem.md",
     "Mathematik/Zahlensysteme/Oktalsystem",
-    "Mathematik/Zahlensysteme/Octalsystem/OKtalsystem.md",
-    "Mathematik/Zahlensysteme/Octalsystem/Octalsystem.md",
-    "Mathematik/Zahlensysteme/Octalsystem/Ocalsystem.md",
-    "Mathematik/Zahlensysteme/Octalsystem/Untitled.md",
-    "Mathematik/Zahlensysteme/Hexadezimalsystem/Hexadezimalsystem.md",
-    "Mathematik/Zahlensysteme/Hexadezimalsystem/Untitled.md",
-    "Informatik/Signale/Digitale Signale.md",
-    "Informatik/Signale/Untitled.md",
     "Informatik/Signale",
     "Informatik/Untitled",
     "Mathematik/Zahlensysteme/Hexadezimalsystem",
@@ -188,13 +193,9 @@
     "Mathematik/Zahlensysteme/Octalsystem",
     "Informatik/Rechnerorganisation",
     "Untitled.canvas",
-    "Mathematik/Folgen/Untitled.md",
-    "Studium Allgemein/Tipps/Uni Rechenzentrum.md",
-    "Mathematik/Funktionen/Funktionstypen/Nullfunktion.md",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
     "Mathematik/Folgen",
     "Mathematik/Funktionen/Operationen an Fuktionen",
-    "Mathematik/Funktionen/Funktionstypen",
     "Mathematik/Geometrie/Formen/Hyperbel/hyperbel_allgemein.png",
     "Mathematik/Rechengesetze/Binomische Formeln/binomische-formeln-1024x406.png",
     "Pascalsches-Dreieck_Binomialkoeffizient-1024x440.png"

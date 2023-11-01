@@ -1,0 +1,1 @@
+- "Ich kann den Funktionsgraphen zeichnen, ohne den Stift abzusetzen"

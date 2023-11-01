@@ -25,3 +25,20 @@ $\emptyset \subseteq A xB$
 	schreibe <= statt R
 5. A Sind die Ecken eines Netzwerks: R := {(x, y) $\in$ AxA: Es gibt eine direkte Verbindung von x nach y }
 
+
+Eine Äquivalenzrelation
+Eine Äquivalenzrelation auf A ist eine Reflexive symetrische transitive Relation auf 
+
+C $\in P(A)$ ist eine Partition von A wenn gilt:
+	- UC = A
+	- $\emptyset \notin C$ 
+	- $\forall$ X,Y $\in$ C ist X, Y oder $X \cap Y = \emptyset$ 
+Die Elemente einer Partition heißen Teile oder auch Klassen
+
+
+Satz: Sei ~ eine Äquivalenzrelation auf A 
+Für $x \in A$ setze $[x]_{\~} := \{y\in A, x~y\}$
+	$[x]$ heißt Äquivalenzklasse von x	
+Die Menge $C_N := \{[x]_\~; x \in A\}$ 
+
+Satz: Sei C eine Partition von A. Dann ist durch x~y mit x, y Ganze Zahlen eine Äquivalenzrelation auf A definiert 
