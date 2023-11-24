@@ -1,0 +1,9 @@
+- f differenzierbar auf I
+- f' existiert f':I->R
+- Wenn f' diffbar ist auf I:
+- f'' existiert f'':I->R
+- f'' = (f'(x))'
+- n-te Ableitung von $f^{(n)}$
+- $f^0 = f$
+- $f^{n} = df^{n-1} / dx$  
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md"
+            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md"
           }
         }
       }
@@ -134,10 +134,16 @@
   },
   "active": "d5a356b2024156fc",
   "lastOpenFiles": [
-    "Informatik/Algorithmen und Datenstrukturen/Landau Notation/Landaunotation.md",
-    "Mathematik/Folgen/Reihen.md",
+    "Mathematik/Mengenlehre/Gruppen; Ringe; Körper.md",
+    "Mathematik/Mengenlehre/Mächtigkeit von Mengen.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwertregeln Funktionen.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert einer Funktion def.md",
+    "Mathematik/Funktionen/Mathematische Funktionen.md",
     "Mathematik/Mengenlehre/Relationen.md",
     "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+    "Informatik/Algorithmen und Datenstrukturen/Landau Notation/Landaunotation.md",
+    "Mathematik/Folgen/Reihen.md",
     "Mathematik/Mengenlehre/Mengenaxiome.md",
     "Mathematik/Mengenlehre/Mengen.md",
     "Mathematik/Mengenlehre/Rechenregeln für Mengen.md",
@@ -158,12 +164,6 @@
     "Untitled.canvas",
     "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
     "Mathematik/Zahlensysteme/Binärsystem/Dezimalsystem in Binärsystem.md",
-    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem in Dezimalsystem.md",
-    "Mathematik/Zahlensysteme/Binärsystem/Binärsystem.md",
-    "Mathematik/Zahlensysteme/Oktalsystem/Oktalsystem.md",
-    "Mathematik/Zahlensysteme/Hexadezimalsystem/Hexadezimalsystem.md",
-    "Informatik/Signale/Digitale Signale.md",
-    "Informatik/Algorithmen und Datenstrukturen/Algorithmen.md",
     "Informatik/Signale",
     "Mathematik/Zahlensysteme/Hexadezimalsystem",
     "Mathematik/Zahlensysteme/Oktalsystem",

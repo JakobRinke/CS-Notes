@@ -53,7 +53,7 @@ a) *Majorantenkriterim*
 	- summe über bk konvergent -> summe über ak ist auch konvergent
 	- summe über bk ist konvergente mayorante von summe über ak
 b) *Minorantenkriterium*
-	- summe von ak divergent -> summe über bk auch unendloch
+	- summe von ak divergent -> summe über bk auch unendlich
 	- summe über ak ist divergente minorante von summe über bk
 
 Erweiterung
@@ -61,5 +61,5 @@ Erweiterung
 		Bei 2 Reihen die beide größer 0 sind
 		ak = O(bk)      analog(bk $\Omega$ ak)
 		Dann  gelten die folgenden Aussagen
-		a) Summe bk Konvergent, dann bk auch Kovergent
+		a) Summe bk Konvergent, dann ak auch Kovergent
 		b) wenn ak bestimmt divergent dann bk auch

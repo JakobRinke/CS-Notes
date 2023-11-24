@@ -1,4 +1,4 @@
-
+von [[Mathematische Funktionen]]
 
 $lim_{x\rightarrow x_0} = \alpha$ $\iff Folgen(x_n)$ mit $x_n \neq \forall n$ und $lim_{n->\infty}x_n=x_0$ gilt wenn $y_n = f(x_n) \rightarrow \alpha$ 
 - Wenn ich immer näher an das x_0 rangehe, welchen Wert hat die Funktion

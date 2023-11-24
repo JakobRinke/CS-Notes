@@ -26,7 +26,7 @@ $\emptyset \subseteq A xB$
 5. A Sind die Ecken eines Netzwerks: R := {(x, y) $\in$ AxA: Es gibt eine direkte Verbindung von x nach y }
 
 
-Eine Äquivalenzrelation
+### Äquivalenzrelation
 Eine Äquivalenzrelation auf A ist eine Reflexive symetrische transitive Relation auf 
 
 C $\in P(A)$ ist eine Partition von A wenn gilt:
@@ -42,3 +42,29 @@ Für $x \in A$ setze $[x]_{\~} := \{y\in A, x~y\}$
 Die Menge $C_N := \{[x]_\~; x \in A\}$ 
 
 Satz: Sei C eine Partition von A. Dann ist durch x~y mit x, y Ganze Zahlen eine Äquivalenzrelation auf A definiert 
+
+
+### Ordnungen
+- Reflexiv, Tranisitiv, Antisymmetrisch
+- <= ist Ordnung auf X
+A $\subseteq X$ ; $b \in A$
+b minimal in A $\iff$ $b \in A$ und $(c <= b \implies c=b) \forall c \in A$ 
+b maximal in A $\iff$ $b \in A$ und $(b <= c) \implies c=b) \forall c \in A$ 
+b kleinstes Element in A $\iff$ $b\in A$ und b<=c   $\forall c \in A$     -> *Einmalig*
+b größtes Element in A $\iff$ $b \in A$ und c<=b    $\forall c \in A$     -> *Einmalig*
+b untere Schranke in A $\iff$ b <= c $\forall c \in A$
+b obere Schranke in A $\iff$ c <= b $\forall c \in A$
+
+Kleinste Obere Schranke: b Obere Schranke und b kleinstes Element aller oberen Schranke       -> b ist supremum (sup A)
+
+Größte Untere Schranke: b Untere Schranke und b größtes Element aller unteren Schranke       -> b ist Infimum A (inf A)
+
+
+#### Satz
+$\subseteq$ ist eine Ordnung von P(X) für a $\subseteq$ P(X)
+	- sup a = $\cup a$ ; 
+	- inf a = $\cap a$ 
+
+### Ordnungen in Hasse Diagrammen
+- Regel1: Ist *x <= y* so zeichne *x unterhalb von y*
+- Regel2: *Verbinde zwei verschiedene Punkte* durch eine Stracke von x nach y falls *x<= y* gilt und es *kein z gibt mit x<=z<=y*
