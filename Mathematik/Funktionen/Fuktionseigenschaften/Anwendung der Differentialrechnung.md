@@ -129,4 +129,41 @@ so ist a = f‘(x0) und damit G(x) = $T_1$(x)
 ### Restgliedformel von Lagrange
 Ist f n+1 mal stetig diffbar auf D
 Dann gibt es für jedes x in D ein xs zwischen x0 und x so dass gilt
-$$R_{d, n, x_0}(x)= \frac{(f^n+1)*x_s}{(n+1)!} * (x - x_0)^{n+1}$$
+$$R_{d, n, x_0}(x)= \frac{(f^{n+1})(x_s)}{(n+1)!} * (x - x_0)^{n+1}$$
+### Potenzreihen
+Def: Reihe der form sum($a_k$ * $(x-x_0)^k$ )
+$x_0$ Zentrum / Entwicklungsstelle der PR
+$a_k$ Koeffizienten der PR
+x Unbestimmte der PR
+Bsp: Taylorreihen; Geometrische Reihe
+
+#### Konvergenzverhalten
+- Es gibt stets ein Intervall I der Form I=($x_0-r, x_0 + r$)    $r\in \mathbb{R} \cup \pm \infty$ so dass gilt:
+	- PR konvergent für $|x-x_0| < r$ 
+	- PR divergent für $|x-x_0| > r$ 
+- $\implies \forall x\in I\exists f(x):=sum(…)$
+- Man nennt f dann Summenfunktion
+-
+#### Bestimmung mit Wurzelkriterium
+$$q(x) = lim \sqrt[k]{a_k * (x-x_0)^k} = lim \frac{a_{k+1} (x-x_0)^{k+1}}{a_k (x-x_0)^{k}}$$
+
+- Konvergent für q(x) < 0
+- Divergent für q(x) > 0
+
+
+#### Rechnen mit Potenzreihen
+- Seien f(x)=sum($a_k(x-x_0)^k$)
+- Seien g(x)=sum($b_k(x-x_0)^k$)
+- a* f(x) + b * g(x) = summe der reihenkombi
+- f(x) * g(x) = summe des reihenprodukts
+- f ist stetig diffbar auf I und die Ableitung kann gliedweise gebildet werden
+- f ist beliebig oft diffbar auf I und es gilt:
+$$
+a_k = \frac{f^k(x_0)}{k!}
+$$
+Beweis analog zu Polynomen
+
+
+
+
+

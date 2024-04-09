@@ -13,9 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md",
+                "file": "Mathematik/Wahrscheinlichkeit/Endliche Wahrscheinlichkeiten.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "90793b43ebd60a78",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md",
+                "file": "Mathematik/Wahrscheinlichkeit/Endliche Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md",
+                "file": "Mathematik/Wahrscheinlichkeit/Endliche Wahrscheinlichkeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md"
+                "file": "Mathematik/Wahrscheinlichkeit/Endliche Wahrscheinlichkeiten.md"
               }
             }
           },
@@ -157,34 +172,34 @@
   },
   "active": "49b4978716260d57",
   "lastOpenFiles": [
+    "Mathematik/Mengenlehre/Gruppen; Ringe; Körper.md",
+    "test.pdf",
+    "Mathematik/Mengenlehre/Boolsche Algebra.md",
+    "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
+    "Mathematik/Mengenlehre/Funktionen auf Basis von Relationen.md",
+    "Mathematik/Mengenlehre/Ganze Zahlen.md",
+    "Mathematik/Mengenlehre/Relationen.md",
+    "Mathematik/Mengenlehre/Rechenregeln für Mengen.md",
+    "Mathematik/Mengenlehre/Mengenaxiome.md",
+    "Mathematik/Mengenlehre/Mengen.md",
+    "Mathematik/Mengenlehre/Mächtigkeit von Mengen.md",
+    "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md",
+    "Mathematik/Funktionen/Mathematische Funktionen.md",
+    "Mathematik/Funktionen/Funktion bzw. Abbildung.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsmultiplikation.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Funktionsaddition bzw. Subtraktion.md",
+    "Mathematik/Funktionen/Operationen an Fuktionen/Arithmetische Operationen für Funktionen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
+    "Mathematik/Diskrete Mathematik/Aussagenlogik/Verknüpfung von Aussagen.md",
+    "Untitled.canvas",
     "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert einer Funktion def.md",
     "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
-    "Mathematik/Mengenlehre/Mächtigkeit von Mengen.md",
     "Mathematik/Funktionen/Fuktionseigenschaften/Höhere Ableitungen.md",
-    "Mathematik/Funktionen/Fuktionseigenschaften/Umkehrfunktion.md",
-    "Mathematik/Funktionen/Fuktionseigenschaften/Differenzierbarkeit von Funktionen.md",
-    "Mathematik/Funktionen/Fuktionseigenschaften/Stetigkeit.md",
-    "Mathematik/Funktionen/Funktionstypen/Identische Abbildung.md",
-    "Mathematik/Funktionen/Mathematische Funktionen.md",
-    "Untitled.canvas",
-    "Mathematik/Folgen/Reihen.md",
-    "Mathematik/Folgen/Cauchykriterium.md",
-    "Mathematik/Folgen/Alternierende Reihen.md",
-    "Mathematik/Folgen/Grenzwerte von Folgen.md",
-    "Mathematik/Folgen/Grenzwertregeln.md",
-    "Mathematik/Folgen/Monotonie und Beschränktheit.md",
     "Mathematik/Folgen/Pasted image 20231030171131.png",
-    "Mathematik/Folgen/Rechnen mit Konvergenten Reihen.md",
-    "Mathematik/Folgen/Folgen.md",
-    "Mathematik/Mengenlehre/Funktionen auf Basis von Relationen.md",
-    "Mathematik/Mengenlehre/Eigenschaften von Relation R auf A.md",
-    "Mathematik/Funktionen/Funktion bzw. Abbildung.md",
-    "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwertregeln Funktionen.md",
-    "Mathematik/Diskrete Mathematik/Grundlagen Bücher.md",
-    "Mathematik/Mengenlehre/Relationen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagenlogische Variable.md",
     "Mathematik/Funktionen/Fuktionseigenschaften",
     "Mathematik/Zahlensysteme/Oktalsystem",
     "Informatik/Signale",
@@ -195,7 +210,6 @@
     "Informatik/Rechnerorganisation",
     "Mathematik/Geometrie/Formen/Ellipse/ellipse_allgemein.jpg",
     "Mathematik/Folgen",
-    "Mathematik/Funktionen/Operationen an Fuktionen",
     "Mathematik/Geometrie/Formen/Hyperbel/hyperbel_allgemein.png",
     "Mathematik/Rechengesetze/Binomische Formeln/binomische-formeln-1024x406.png",
     "Pascalsches-Dreieck_Binomialkoeffizient-1024x440.png"

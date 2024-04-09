@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
+                "file": "Mathematik/Graph Theorie/Elementare Graph Theorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
+            "file": "Mathematik/Graph Theorie/Elementare Graph Theorie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
+            "file": "Mathematik/Graph Theorie/Elementare Graph Theorie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md"
+            "file": "Mathematik/Graph Theorie/Elementare Graph Theorie.md"
           }
+        }
+      },
+      {
+        "id": "f4155cdecd5388b9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,11 +140,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5a356b2024156fc",
+  "active": "8125e16591ff6e65",
   "lastOpenFiles": [
-    "Mathematik/Mengenlehre/Gruppen; Ringe; Körper.md",
+    "Mathematik/Wahrscheinlichkeit/Endliche Wahrscheinlichkeiten.md",
+    "Mathematik/Graph Theorie/Elementare Graph Theorie.md",
+    "Mathematik/Mengenlehre/Boolsche Algebra.md",
+    "Mathematik/Wahrscheinlichkeit",
+    "IMG_6649.jpeg",
+    "test.pdf",
+    "VII Boole'sche Algebren 2.one",
     "Mathematik/Mengenlehre/Mächtigkeit von Mengen.md",
+    "Mathematik/Mengenlehre/Rechenregeln für Mengen.md",
+    "Pasted image 20231128093257.png",
+    "Pasted image 20231128093259.png",
+    "Untitled.md",
+    "VII Boole'sche Algebren 1.one",
+    "Untitled.canvas",
+    "Mathematik/Mengenlehre/Gruppen; Ringe; Körper.md",
+    "VII Boole'sche Algebren.one",
+    "Mathematik/Mengenlehre/Ganze Zahlen.md",
+    "Mathematik/Mengenlehre/Mengen.md",
     "Mathematik/Funktionen/Fuktionseigenschaften/Anwendung der Differentialrechnung.md",
+    "Mathematik/Mengenlehre/Funktionen auf Basis von Relationen.md",
     "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwertregeln Funktionen.md",
     "Mathematik/Funktionen/Fuktionseigenschaften/Grenzwert einer Funktion def.md",
     "Mathematik/Funktionen/Mathematische Funktionen.md",
@@ -145,8 +170,6 @@
     "Informatik/Algorithmen und Datenstrukturen/Landau Notation/Landaunotation.md",
     "Mathematik/Folgen/Reihen.md",
     "Mathematik/Mengenlehre/Mengenaxiome.md",
-    "Mathematik/Mengenlehre/Mengen.md",
-    "Mathematik/Mengenlehre/Rechenregeln für Mengen.md",
     "Mathematik/Folgen/Grenzwertregeln.md",
     "Informatik/Algorithmen und Datenstrukturen/Landau Notation",
     "Mathematik/Folgen/Grenzwerte von Folgen.md",
@@ -157,19 +180,7 @@
     "Mathematik/Mengenlehre",
     "Mathematik/Folgen/Folgen.md",
     "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussagen.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Aussageform.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Logische Rechenregeln.md",
-    "Mathematik/Diskrete Mathematik/Grundlagen Bücher.md",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik/Prädikat.md",
-    "Untitled.canvas",
-    "Mathematik/Zahlensysteme/Binärsystem/Subtraktion im Binärsystem.md",
-    "Mathematik/Zahlensysteme/Binärsystem/Dezimalsystem in Binärsystem.md",
     "Informatik/Signale",
-    "Mathematik/Zahlensysteme/Hexadezimalsystem",
-    "Mathematik/Zahlensysteme/Oktalsystem",
-    "Informatik/Rechnerorganisation",
-    "Mathematik/Diskrete Mathematik/Aussagenlogik",
-    "Mathematik/Beweise",
-    "Untitled"
+    "Mathematik/Zahlensysteme/Hexadezimalsystem"
   ]
 }
